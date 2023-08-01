@@ -36,11 +36,3 @@ To get started with the project, you will need to have the following prerequisit
 1. Python: Install Python (3.7 or later) from the official website: https://www.python.org/downloads/
 2. Jupyter Notebook: Install Jupyter Notebook using the instructions provided here: https://jupyter.org/install
 3. Required Libraries: Ensure you have installed all the necessary libraries by running `pip install pandas numpy scikit-learn matplotlib plotly seaborn`.
-
-## Contribution and Feedback
-
-While this project is the conclusion of the IBM Data Analysis With Python Course, we encourage contributions and feedback from the community. If you have ideas to improve the project, identify bugs, or suggest enhancements, please feel free to open an issue or submit a pull request on our GitHub repository [link-to-your-repo]. We value your input and are eager to make this project more robust and informative.
-
-Let's embark on this exciting journey of data analysis and machine learning together!
-
-**Happy Coding!**
